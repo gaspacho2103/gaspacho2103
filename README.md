@@ -1,7 +1,7 @@
 <h1>👋 Рад приветствовать</h1>
 
 <p>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNmbGo1b20zZjJwNWhvdjltYmx2dzZucHlma2VuOWhiNW0zcGo3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Приветствие" width="800"/>
+    <img src="https://media.giphy.com/media/3o6Zt1f2W6K1u3ZqXK/giphy.gif" alt="Gif" width="600"/>
 </p>
 
 <h2>🚀 О себе</h2>
