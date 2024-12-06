@@ -35,7 +35,7 @@
 <h2>📈 Статистика</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="Статистика GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" style="{height: 200px, margin-left: 25px}" alt="Топ языков"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" style="height: 200px; margin-left: 25px" alt="Топ языков"/>
 </p>
 
 <h2>📫 Как со мной связаться</h2>
