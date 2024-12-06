@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Gaspacho)</h1>
 
-<!--
-**gaspacho2103/gaspacho2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNmbGo1b20zZjJwNWhvdjltYmx2dzZucHlma2VuOWhiNW0zcGo3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Приветствие" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">🚀 О себе</h2>
+<p align="center">
+    🌍 Я веб-разработчик с небольшим стажем, но большой целеустремленностью.<br>
+    💻 Основные технологии: PHP, JavaScript, Laravel, Electron и другие библиотеки, связанные с этими двумя языками<br>
+    🎨 Имеются некоторые навыки во Front-end разработке<br>
+    📚 Постоянно учусь и изучаю новые технологии.<br>
+    🎮 В свободное время люблю играть в видеоигры и читать книги.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">🌟 Мои проекты</h2>
+<ul>
+    <li><a href="https://github.com/gaspacho2103/smartmoney">SmartMoney</a> - Система управления фондовым рынком, написанная на C# WPF</li>
+    <li><a href="https://github.com/gaspacho2103/autotechnical">Avto-Tech</a> - Веб-сайт станции технического обслуживания, с прилогающейся к ней API. Используется RESTful</li>
+    <li><a href="https://github.com/gaspacho2103/netmaster">Network Master</a> - Симулятор сетевого инжиниринга, написанный на PHP</li>
+</ul>
+
+<h2 align="center">📫 Как со мной связаться</h2>
+<p align="center">
+    ✉️ Email: <a href="mailto:maxytko108@gmail.com">maxytko108@gmail.com</a><br>
+    📱 Telegram: <a href="https://t.me/garageenjoyer">@garageenjoyer</a><br>
+    🔗 VK: <a href="https://vk.com/fraerpiterskiy">@fraerpiterskiy</a>
+</p>
+
+<h2 align="center">📈 Статистика</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="Статистика GitHub"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Топ языков"/>
+</p>
