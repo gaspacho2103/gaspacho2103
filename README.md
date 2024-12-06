@@ -19,16 +19,29 @@
     <li><a href="https://github.com/gaspacho2103/netmaster">Network Master</a> - Симулятор сетевого инжиниринга, написанный на PHP</li>
 </ul>
 
-<h2>📫 Как со мной связаться</h2>
-<p>
-    ✉️ Email: <a href="mailto:maxytko108@gmail.com">maxytko108@gmail.com</a><br>
-    📱 Telegram: <a href="https://t.me/garageenjoyer">@garageenjoyer</a><br>
-    🔗 VK: <a href="https://vk.com/fraerpiterskiy">@fraerpiterskiy</a>
-</p>
+<h2>🖥️ Стек технологий</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
+</div>
 
 <h2>📈 Статистика</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="Статистика GitHub"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Топ языков"/>
+</p>
+
+<h2>📫 Как со мной связаться</h2>
+<p>
+    ✉️ Email: <a href="mailto:maxytko108@gmail.com">maxytko108@gmail.com</a><br>
+    📱 Telegram: <a href="https://t.me/garageenjoyer">@garageenjoyer</a><br>
+    🔗 VK: <a href="https://vk.com/fraerpiterskiy">@fraerpiterskiy</a>
 </p>
