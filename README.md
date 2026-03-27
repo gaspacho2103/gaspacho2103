@@ -1,7 +1,7 @@
 <h1 align="left">👋 Рад приветствовать!</h1>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="neon vibes" width="800"/>
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="neon vibes" width="850"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ---
 
 ### [SmartMoney — десктоп-приложение для инвесторов](https://github.com/gaspacho2103/smartmoney)
-**C# WPF + SQL | управление портфелем, графики, чат**
+**C# WPF + SQL | управление портфелем, графики, админ-панель**
 
 - Приложение с авторизацией, отслеживанием акций, визуализацией данных
 - Опыт работы с настольными приложениями и сложной бизнес-логикой
@@ -55,7 +55,7 @@
 
 ## 🛠️ Мой стек
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
@@ -73,7 +73,7 @@
 ## 📊 Статистика GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  [![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=gaspacho2103)](https://github.com/psiyavush/github-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
 
