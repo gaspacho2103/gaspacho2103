@@ -73,8 +73,9 @@
 ## 📊 Статистика GitHub
 
 <div align="left">
-  <img src="https://stats.dooboo.io/api/github-stats?username=gaspacho2103" alt="GitHub Stats" height="180"/>
-  <img src="https://stats.dooboo.io/api/github-top-langs?username=gaspacho2103" alt="Top Languages" height="180"/>
+  <img src="https://img.shields.io/github/followers/gaspacho2103?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/gaspacho2103?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/gaspacho2103/swagger?label=Last%20commit" alt="Last commit" />
 </div>
 
 ---
