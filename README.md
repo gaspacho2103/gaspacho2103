@@ -103,4 +103,3 @@
 - 📱 Telegram: [@garageenjoyer](https://t.me/garageenjoyer)
 - 🔗 VK: [@fraerpiterskiy](https://vk.com/fraerpiterskiy)
 
----
