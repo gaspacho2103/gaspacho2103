@@ -73,7 +73,7 @@
 ## 📊 Статистика GitHub
 
 <div align="left">
-  [![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=gaspacho2103)](https://github.com/psiyavush/github-stats)
+ <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103" alt="Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
 
