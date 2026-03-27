@@ -73,7 +73,7 @@
 ## 📊 Статистика GitHub
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103" alt="Stats" height="180" />
+ <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
 
