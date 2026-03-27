@@ -1,4 +1,4 @@
-<h1 align="center">👋 Рад приветствовать!к</h1>
+<h1 align="left">👋 Рад приветствовать!</h1>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="neon vibes" width="800"/>
@@ -8,12 +8,12 @@
 
 ## 🚀 О себе
 
-Фронтенд-разработчик с опытом создания веб-приложений на **React**, **TypeScript** и **Flask**.  
+Фронтенд-разработчик с опытом создания веб-приложений на JS.  
 Люблю строить сложные интерфейсы, продумывать архитектуру и доводить проекты до работающего продакшена.
 
-- 🌱 Сейчас углубляюсь в **TypeScript**, **RTK Query** и 3D на **Three.js**
+- 🌱 Сейчас углубляюсь в **React JS**, **TypeScript** и **Vue JS**
 - 🎯 Цель: попасть в продуктовую разработку и создавать крутые вещи, которыми пользуются люди
-- 🧠 Постоянно учусь, системно подхожу к задачам, не боюсь сложных вызовов
+- 🧠 Постоянно учусь, системно подхожу к задачам
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 🛠️ Мой стек
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
@@ -72,7 +72,7 @@
 
 ## 📊 Статистика GitHub
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
@@ -86,5 +86,3 @@
 - 🔗 VK: [@fraerpiterskiy](https://vk.com/fraerpiterskiy)
 
 ---
-
-⭐️ **Если тебе интересны мои проекты — буду рад новым знакомствам и предложениям!**
