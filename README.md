@@ -73,8 +73,16 @@
 ## 📊 Статистика GitHub
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+ <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=default&border_radius=10" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gaspacho2103&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10" alt="GitHub Stats" height="180" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical&bg_color=0d1117&border_radius=10" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=default&border_radius=10" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical&bg_color=0d1117&border_radius=10" alt="Top Languages" height="180" />
+  </picture>
 </div>
 
 ---
