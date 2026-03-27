@@ -47,9 +47,9 @@
 - Настройка IP-адресов, подсетей, VLAN
 - Симуляция передачи пакетов с отображением маршрута (leader-line)
 
-### [АвтоТех — комплексная экосистема для автосервиса](https://github.com/gaspacho2103/autotechnical)
-
 ---
+
+### [АвтоТех — комплексная экосистема для автосервиса](https://github.com/gaspacho2103/autotechnical)
 
 **PHP + REST API + Electron + MySQL**
 
