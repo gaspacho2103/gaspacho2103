@@ -75,7 +75,8 @@
 <div align="left">
   <img src="https://img.shields.io/github/followers/gaspacho2103?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/gaspacho2103?label=Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/gaspacho2103/swagger?label=Last%20commit" alt="Last commit" />
+  <img src="https://img.shields.io/github/last-commit/gaspacho2103/swagger?label=Last%20commit" alt="Last commit" /> <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
 
 ---
