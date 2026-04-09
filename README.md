@@ -8,7 +8,7 @@
 
 ## 🚀 О себе
 
-Фронтенд-разработчик с опытом создания веб-приложений на JS.  
+Фуллстек-разработчик с уклономов во фронтенд и опытом создания веб-приложений на JS.  
 Люблю строить сложные интерфейсы, продумывать архитектуру и доводить проекты до работающего продакшена.
 
 - 🌱 Сейчас углубляюсь в **React JS**, **TypeScript** и **Vue JS**
@@ -92,7 +92,6 @@
   <img src="https://img.shields.io/github/followers/gaspacho2103?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/gaspacho2103?label=Stars&style=social" alt="Stars" />
   <img src="https://img.shields.io/github/last-commit/gaspacho2103/swagger?label=Last%20commit" alt="Last commit" /> <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspacho2103&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </div>
 
 ---
