@@ -20,7 +20,7 @@
 ## 🧩 Мои проекты
 
 ### [Galaxy — социальная сеть форумного типа](https://github.com/gaspacho2103/swagger)
-**React + Flask + MySQL | JWT, REST API, адаптивный дизайн**
+**React + Flask + MySQL | JWT, REST API**
 
 - Полноценное веб-приложение с постами, комментариями, лайками, подписками
 - Авторизация через JWT, управление состоянием через react-query
